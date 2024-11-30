@@ -1,6 +1,6 @@
-# CrimsonBreakout  
+# Crimson Breakout  
 
-**CrimsonBreakout** is a 2D action-packed platformer where you, a rebellious soldier, defy your corrupt monarch. Your objective is to escape the crimson moon at all costs. Armed with a gun and grenades, you must fend off enemies that look just like you but are relentless in their pursuit to end your rebellion.  
+**Crimson Breakout** is a 2D action-packed platformer where you, a rebellious soldier, defy your corrupt monarch. Your objective is to escape the crimson moon at all costs. Armed with a gun and grenades, you must fend off enemies that look just like you but are relentless in their pursuit to end your rebellion.  
 
 ## Table of Contents  
 - [Gameplay](#gameplay)  
@@ -51,7 +51,7 @@ You play as a soldier who has grown tired of serving under a corrupt monarch. Th
    ```  
 3. Clone this repository:  
    ```bash  
-   git clone https://github.com/yourusername/crimsonbreakout.git  
+   git clone https://github.com/ashfelloff/crimsonbreakout.git  
    cd crimsonbreakout  
    ```  
 4. Run the game:  
